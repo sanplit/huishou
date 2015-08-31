@@ -10,7 +10,7 @@
 
 require_once('./common.inc.php');
 
-class Cart extends Action
+class cart extends Action
 {
 	public function doDefault()
     {

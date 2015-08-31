@@ -10,7 +10,7 @@
 
 require_once('./common.inc.php');
 
-class GetLastest extends Action
+class getlastest extends Action
 {
 	public function doDefault()
     {	
